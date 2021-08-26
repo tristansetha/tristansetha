@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am currently interested Frontend development and User Experience Design.   
-🌱 I’m currently learning the fundamentals   
+🌱 I’m currently sharpening my fundamentals   
 😄 Open to any constructive feedback 
 <!--
 
