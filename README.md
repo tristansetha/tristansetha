@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am currently interested in all things Frontend Development and Design.   
-🌱  Currently sharpening my fundamentals   
+🌱  Currently sharpening the fundamentals   
 😄  Open to any constructive feedback 
 <!--
 
