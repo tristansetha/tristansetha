@@ -2,7 +2,6 @@
 I am currently interested in all things Frontend Development and Design.   
 🌱  Currently sharpening the fundamentals   
 😄  Open to any constructive feedback   
-tzrtg@protonmail.com
 <!--
 
 - 🔭 I’m currently working on ...
